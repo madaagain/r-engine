@@ -76,17 +76,6 @@ Since the process in really different for the window build & run, please check t
 
 ---
 
-## Documentation
-
-R-TYPE includes comprehensive documentation:
-- **Developer Guide:** Learn about the architecture, subsystems, and best practices.
-- **Protocol Specifications:** Detailed network communication protocols.
-- **Advanced Topics:** Tutorials for extending and optimizing the engine.
-
-<br>
-
-Explore our documentation **[here](https://own-7.gitbook.io/r-type)**.
-<br>
 
 ---
 
